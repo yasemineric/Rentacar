@@ -6,3 +6,5 @@ farkli kodlar yazdim
 
 yeni yeni
 
+lokalde conflict olursa
+
